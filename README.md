@@ -5,7 +5,7 @@ version 0.15.1.
 
 ## Build & development
 
-Please install Compass and Karma before running the project.
+Please install Compass and Karma before running the project. :+1:
 
 `gem install compass`
 
