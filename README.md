@@ -5,6 +5,12 @@ version 0.15.1.
 
 ## Build & development
 
+Please install Compass and Karma before running the project.
+
+`gem install compass`
+
+`npm install grunt-karma karma karma-phantomjs-launcher karma-jasmine jasmine-core phantomjs-prebuilt --save-dev`
+
 Run `grunt` for building and `grunt serve` for preview.
 
 ## Testing
